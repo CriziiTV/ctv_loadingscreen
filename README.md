@@ -1,7 +1,5 @@
-# fivem-loading
-I made this loading screen on request.
-
-Background video: https://www.youtube.com/watch?v=Ixv6kcHbpWE
+# ctv_loadingscreen
+Simple loadingscreen with variable sounds!
 
 You can simple change video and music files in /assets!
 You can also add more music files liem music1, music2 music3, music4,...
